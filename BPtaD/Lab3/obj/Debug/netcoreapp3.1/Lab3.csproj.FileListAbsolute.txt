@@ -1,0 +1,22 @@
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.csprojAssemblyReference.cache
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+C:\Users\Valeriy\Desktop\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.csprojAssemblyReference.cache
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+D:\Университет\3 курс\_БПтаД\BPtaD\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb

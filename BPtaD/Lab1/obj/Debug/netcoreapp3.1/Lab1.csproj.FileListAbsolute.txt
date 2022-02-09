@@ -1,0 +1,17 @@
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\Lab1_MarkupCompile.cache
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\Lab1_MarkupCompile.lref
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\Lab1.g.resources
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\Valeriy\Desktop\BPtaD\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
